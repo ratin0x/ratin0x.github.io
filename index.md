@@ -4,5 +4,5 @@ title: "Hello World"
 
 # Hello World
 
-[About](/about)
-[The Trial](/docs/thetrial)
+- [About](/about)
+- [The Trial](/docs/thetrial)

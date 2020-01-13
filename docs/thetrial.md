@@ -1,6 +1,6 @@
 ---
 title: "Docs"
-permalink: /docs/
+permalink: /docs/thetrial
 ---
 
 # The Trial
